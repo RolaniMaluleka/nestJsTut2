@@ -6,8 +6,8 @@ POST http://localhost:3000/messages
 Content-type: application/json
 
 {
-    "content": 1234
+    "content": "Message after injections"
 }
 
 ###Get a specific message via id
-GET http://localhost:3000/messages/8334
+GET http://localhost:3000/messages/44
